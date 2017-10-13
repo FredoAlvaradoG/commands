@@ -1,12 +1,12 @@
-git clone URL
+git clone URL   //Clone Repository into a new Directory
 
 git checkout -b crazy-idea
 
 git branch
 
-git push --set-upstream origin crazy-idea
+git push --set-upstream origin crazy-idea //push to remote respository
 git checkout master
-git pull
+git pull    //Pull lastest from remote respository
 
 git branch --delete crazy-idea
 
