@@ -9,3 +9,7 @@ git checkout master
 git pull
 
 git branch --delete crazy-idea
+
+git remote add origin https://github.com/FredoAlvaradoG/commands.git
+
+git push -u origin master
