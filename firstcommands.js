@@ -6,7 +6,7 @@ git status
 
 git rm --cached filename / git rm --cached -r .
 
-git commit -m "Description"  / git commit -a -m "addAndCommit"
+git commit -m "Description"  / git commit -am "addAndCommit"
 
 git log / git log --online
 
