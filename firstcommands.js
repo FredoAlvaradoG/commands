@@ -4,6 +4,8 @@ git add filename / git add .    //Add File / all Files To index
 
 git status  //Check status of working tree
 
+git reset filename / git reset // Remove one  / all file(s) from the statege area
+
 git rm --cached filename / git rm --cached -r . //Remove file / all files of the index
 
 git commit -m "Description"  / git commit -am "addAndCommit"    //commit and description /add to index and commit description

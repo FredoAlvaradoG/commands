@@ -1,4 +1,6 @@
-git clone URL   //Clone Repository into a new Directory
+git clone <URL> <where to clone>   //Clone Repository into a new Directory
+
+git clone <LocalRepo> <where to clone>   //Clone Repository into a new Directory
 
 git checkout -b crazy-idea
 
