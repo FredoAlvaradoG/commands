@@ -11,8 +11,9 @@ git status
 git commit -m "Workflow"
 git push --set-upstream origin crazy-idea / git push -u origin crazy-idea//push to remote respository
 git checkout master
-git pull    //Pull lastest from remote respository
-
+git pull origin master    //Pull lastest from remote respository
+git merge crazy-idea
+git push origin master
 git branch --delete crazy-idea
 
 git remote add origin https://github.com/FredoAlvaradoG/commands.git
