@@ -16,6 +16,6 @@ git merge crazy-idea
 git push origin master
 git branch --delete crazy-idea
 
-git remote add origin https://github.com/FredoAlvaradoG/commands.git
 
+git remote add origin https://github.com/FredoAlvaradoG/commands.git
 git push -u origin master
