@@ -14,7 +14,7 @@ git checkout master
 git pull origin master    //Pull lastest from remote respository
 git merge crazy-idea
 git push origin master
-git branch --delete crazy-idea
+git branch --delete crazy-idea  / git branch -d crazy-idea
 
 
 git remote add origin https://github.com/FredoAlvaradoG/commands.git
