@@ -16,6 +16,10 @@ git merge crazy-idea
 git push origin master
 git branch --delete crazy-idea  / git branch -d crazy-idea
 
-
-git remote add origin https://github.com/FredoAlvaradoG/commands.git
+//Make the link between the remote and the local repo 
+git remote add origin https://github.com/FredoAlvaradoG/commands.git 
+git remote -v // view the conction
 git push -u origin master
+
+git commit --amend -m "New message"
+git push origin master -f
