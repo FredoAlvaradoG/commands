@@ -29,3 +29,5 @@ Format: ![Alt Text](url)
 https://fredoalvaradog.github.io - automatic!
 [GitHub](https://fredoalvaradog.github.io)
 
+[This web please](https://fredoalvaradog.github.io/gitLOLCommands)
+
