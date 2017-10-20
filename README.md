@@ -1,7 +1,7 @@
 # Fredo Alvarado G
-## h2 example
-### h3 example
-####  h4 example
+## Fredo Alvarado G
+### Fredo Alvarado G
+####  Fredo Alvarado G
 
 *Text in italic´s*
 _This text also italic_
@@ -23,9 +23,6 @@ __FREDO__ __*Alvarado*__
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-
 https://fredoalvaradog.github.io - automatic!
 [GitHub](https://fredoalvaradog.github.io)
-
 [This web please](https://fredoalvaradog.github.io/gitLOLCommands)
-
