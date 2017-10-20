@@ -21,7 +21,7 @@ __FREDO__ __*Alvarado*__
 1. Mastering Markdown https://guides.github.com/features/mastering-markdown/
    1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-![Node JS Logo](/imagens/development.png)
+![Node JS Logo](/imagens/business.png.png)
 Format: ![Alt Text](http://clipartist.net/social/clipartist.net/T/tux_badge_penguin_linux_art-555px.png)
 
 https://fredoalvaradog.github.io - automatic!
