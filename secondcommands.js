@@ -19,7 +19,7 @@ git branch --delete crazy-idea  / git branch -d crazy-idea
 //Make the link between the remote and the local repo 
 git remote add origin https://github.com/FredoAlvaradoG/commands.git 
 git remote -v // view the conction
-git push -u origin master
+git push -u origin master  / git push
 
 git commit --amend -m "New message"
 git push origin master -f

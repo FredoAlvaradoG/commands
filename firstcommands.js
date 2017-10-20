@@ -1,3 +1,6 @@
+touch README.md
+touch .gitignore
+
 git init    //Initialize local git repository
 
 git add filename / git add .    //Add File / all Files To index
