@@ -17,9 +17,9 @@ __FREDO__ __*Alvarado*__
 
 
 1. Gitignore Page: https://www.gitignore.io/
-   1.[Gitignore](https://www.gitignore.io/)
+   1. [Gitignore](https://www.gitignore.io/)
 1. Mastering Markdown https://guides.github.com/features/mastering-markdown/
-   1.[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+   1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
