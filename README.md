@@ -11,8 +11,9 @@ __BOLDTEXT__
 
 __FREDO__ __*Alvarado*__
 
-* Item 1
-* Item 2
+* **English**
+* **Fitness**
+* **Minimalist**
     * sub ITEM 2 1
 
 1. Gitignore Page: https://www.gitignore.io/
